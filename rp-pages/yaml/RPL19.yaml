@@ -3,6 +3,14 @@
 gene: RPL19
   description: ribosomal protein L19 
   subunit: large sub-unit
-  HGNC: 10312
-  ENSG: ENSG00000108298
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L19E family of ribosomal proteins. It is located in the cytoplasm. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L19
+  ncbi: 6143
+  ensg: ENSG00000108298
+  omim: 180466
+  hgnc: 10312
   uniprot: P84098
+  protein: eL19
+  pdb_chain: LR
+  yeast: L19
+  bacteria: NA

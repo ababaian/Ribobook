@@ -3,6 +3,14 @@
 gene: RPL8
   description: ribosomal protein L8 
   subunit: large sub-unit
-  HGNC: 10368
-  ENSG: ENSG00000161016
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L2P family of ribosomal proteins. It is located in the cytoplasm. In rat, the protein associates with the 5.8S rRNA, very likely participates in the binding of aminoacyl-tRNA, and is a constituent of the elongation factor 2-binding site at the ribosomal subunit interface. Alternatively spliced transcript variants encoding the same protein exist. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L8
+  ncbi: 6132
+  ensg: ENSG00000161016
+  omim: 604177
+  hgnc: 10368
   uniprot: P62917
+  protein: uL2
+  pdb_chain: LA
+  yeast: L2
+  bacteria: L2

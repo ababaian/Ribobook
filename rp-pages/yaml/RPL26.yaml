@@ -3,6 +3,14 @@
 gene: RPL26
   description: ribosomal protein L26 
   subunit: large sub-unit
-  HGNC: 10327
-  ENSG: ENSG00000161970
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L24P family of ribosomal proteins. It is located in the cytoplasm. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Mutations in this gene result in Diamond-Blackfan anemia. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Oct 2015]
+  aka: L26; DBA11
+  ncbi: 6154
+  ensg: ENSG00000161970
+  omim: 603704
+  hgnc: 10327
   uniprot: P61254
+  protein: uL24
+  pdb_chain: LY
+  yeast: L26
+  bacteria: L24

@@ -3,6 +3,14 @@
 gene: RPS15
   description: ribosomal protein S15 
   subunit: small sub-unit
-  HGNC: 10388
-  ENSG: ENSG00000115268
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S19P family of ribosomal proteins. It is located in the cytoplasm. This gene has been found to be activated in various tumors, such as insulinomas, esophageal cancers, and colon cancers. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Apr 2015]
+  aka: RIG; S15
+  ncbi: 6209
+  ensg: ENSG00000115268
+  omim: 180535
+  hgnc: 10388
   uniprot: P62841
+  protein: uS19
+  pdb_chain: SP
+  yeast: S15
+  bacteria: S19

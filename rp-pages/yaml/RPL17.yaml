@@ -3,6 +3,14 @@
 gene: RPL17
   description: ribosomal protein L17 
   subunit: large sub-unit
-  HGNC: 10307
-  ENSG: ENSG00000265681
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L22P family of ribosomal proteins. It is located in the cytoplasm. This gene has been referred to as rpL23 because the encoded protein shares amino acid identity with ribosomal protein L23 from Halobacterium marismortui; however, its official symbol is RPL17. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Alternative splicing results in multiple transcript variants. Read-through transcription also exists between this gene and the neighboring downstream C18orf32 (chromosome 18 open reading frame 32) gene. [provided by RefSeq, Dec 2010]
+  aka: L17; PD-1; RPL23
+  ncbi: 6139
+  ensg: ENSG00000265681
+  omim: 603661
+  hgnc: 10307
   uniprot: P18621
+  protein: uL22
+  pdb_chain: LP
+  yeast: L17
+  bacteria: L22

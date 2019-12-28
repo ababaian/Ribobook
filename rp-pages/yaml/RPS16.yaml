@@ -3,6 +3,14 @@
 gene: RPS16
   description: ribosomal protein S16 
   subunit: small sub-unit
-  HGNC: 10396
-  ENSG: ENSG00000105193
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S9P family of ribosomal proteins. It is located in the cytoplasm. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: S16
+  ncbi: 6217
+  ensg: ENSG00000105193
+  omim: 603675
+  hgnc: 10396
   uniprot: P62249
+  protein: uS9
+  pdb_chain: SQ
+  yeast: S16
+  bacteria: S9

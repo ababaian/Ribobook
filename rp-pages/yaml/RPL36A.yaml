@@ -3,6 +3,14 @@
 gene: RPL36A
   description: ribosomal protein L36a 
   subunit: large sub-unit
-  HGNC: 10359
-  ENSG: ENSG00000241343
+  summary: Cytoplasmic ribosomes, organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein, which shares sequence similarity with yeast ribosomal protein L44, belongs to the L44E (L36AE) family of ribosomal proteins. Although this gene has been referred to as ribosomal protein L44 (RPL44), its official name is ribosomal protein L36a (RPL36A). This gene and the human gene officially named ribosomal protein L36a-like (RPL36AL) encode nearly identical proteins; however, they are distinct genes. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Naturally occurring read-through transcription occurs between this locus and the heterogeneous nuclear ribonucleoprotein H2 (H') gene. [provided by RefSeq, Jan 2011]
+  aka: L36A; L44L; MIG6; RPL44
+  ncbi: 6173
+  ensg: ENSG00000241343
+  omim: 300902
+  hgnc: 10359
   uniprot: P83881
+  protein: eL42
+  pdb_chain: Lo
+  yeast: L42
+  bacteria: NA

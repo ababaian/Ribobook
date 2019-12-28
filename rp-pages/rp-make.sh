@@ -50,17 +50,36 @@ do
 	# gene; description; subunit;
 	# HGNC; ENSG; uniprot
 	source tmp
-	#rm tmp
+	rm tmp
 
 	# Search and replace keywords in template
 	sed -i "s/%gene%/$gene/g"        $page
-	sed -i "s/%description%/($description)/g" $page
-	sed -i "s/%subunit%/$subunit/g"     $page
+	sed -i "s/%protein%/$protein/g"  $page
+	sed -i "s/%subunit%/$subunit/g"  $page
 	sed -i "s/%HGNC%/$HGNC/g"        $page
 
+	# If variable is available. Parse sentence.
+	if [ $description != 'NA' ]; then
+		sed -i "s/%description%/$description/g" $page
+	fi
+
+	if [ $summary != 'NA' ]; then
+		sed -i "s/%summary%/##RefSeq Summary\n$summary/g" $page
+	fi
+
+	if [ $yeast != 'NA' ]; then
+		state="Yeast homolog is $yeast".
+		sed -i "s/%yeast%/$state/g" $page
+	fi
+
+	if [ $bacteria != 'NA' ]; then
+		state="Bacterial homolog is $bacteria".
+		sed -i "s/%bacteria%/$state/g" $page
+	fi
+	
 	# Clear any un-used variables
 	# TODO print that a variable is not found in a gene profile
-	sed -i 's/ %[\w]*%//g' $page
+	sed -i 's/%[A-Za-z0-9\-_]*%//g' $page
 
 	# Edge-cases --------------------------------
 	# RACK1 links for COSMIC/TCGA uses gene name GNB2L1

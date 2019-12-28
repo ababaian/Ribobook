@@ -3,6 +3,14 @@
 gene: RPL38
   description: ribosomal protein L38 
   subunit: large sub-unit
-  HGNC: 10349
-  ENSG: ENSG00000172809
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L38E family of ribosomal proteins. It is located in the cytoplasm. Alternative splice variants have been identified, both encoding the same protein. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome, including one located in the promoter region of the type 1 angiotensin II receptor gene. [provided by RefSeq, Jul 2008]
+  aka: L38
+  ncbi: 6169
+  ensg: ENSG00000172809
+  omim: 604182
+  hgnc: 10349
   uniprot: P63173
+  protein: eL38
+  pdb_chain: Lk
+  yeast: L38
+  bacteria: NA

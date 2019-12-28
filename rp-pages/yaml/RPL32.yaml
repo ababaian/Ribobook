@@ -3,6 +3,14 @@
 gene: RPL32
   description: ribosomal protein L32 
   subunit: large sub-unit
-  HGNC: 10336
-  ENSG: ENSG00000144713
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L32E family of ribosomal proteins. It is located in the cytoplasm. Although some studies have mapped this gene to 3q13.3-q21, it is believed to map to 3p25-p24. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Alternatively spliced transcript variants encoding the same protein have been observed for this gene. [provided by RefSeq, Jul 2008]
+  aka: L32; PP9932
+  ncbi: 6161
+  ensg: ENSG00000144713
+  omim: NA
+  hgnc: 10336
   uniprot: P62910
+  protein: eL32
+  pdb_chain: Le
+  yeast: L32
+  bacteria: NA

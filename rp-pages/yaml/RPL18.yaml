@@ -3,6 +3,14 @@
 gene: RPL18
   description: ribosomal protein L18 
   subunit: large sub-unit
-  HGNC: 10310
-  ENSG: ENSG00000063177
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a member of the L18E family of ribosomal proteins that is a component of the 60S subunit. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Alternatively spliced transcript variants encoding multiple isoforms have been observed for this gene. [provided by RefSeq, Jul 2012]
+  aka: L18; DBA18
+  ncbi: 6141
+  ensg: ENSG00000063177
+  omim: 604179
+  hgnc: 10310
   uniprot: Q07020
+  protein: eL18
+  pdb_chain: LQ
+  yeast: L18
+  bacteria: NA

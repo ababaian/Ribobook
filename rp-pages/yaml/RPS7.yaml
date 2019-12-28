@@ -3,6 +3,14 @@
 gene: RPS7
   description: ribosomal protein S7 
   subunit: small sub-unit
-  HGNC: 10440
-  ENSG: ENSG00000171863
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S7E family of ribosomal proteins. It is located in the cytoplasm. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: S7; eS7; DBA8
+  ncbi: 6201
+  ensg: ENSG00000171863
+  omim: 603658
+  hgnc: 10440
   uniprot: P62081
+  protein: eS7
+  pdb_chain: SH
+  yeast: S7
+  bacteria: NA

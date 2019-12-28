@@ -3,6 +3,14 @@
 gene: RPS17
   description: ribosomal protein S17 
   subunit: small sub-unit
-  HGNC: 10397
-  ENSG: ENSG00000182774
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of four RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S17E family of ribosomal proteins and is located in the cytoplasm. Mutations in this gene cause Diamond-Blackfan anemia 4. Alternative splicing of this gene results in multiple transcript variants. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Apr 2014]
+  aka: S17; DBA4; RPS17L; RPS17L1; RPS17L2
+  ncbi: 6218
+  ensg: ENSG00000182774
+  omim: 180472
+  hgnc: 10397
   uniprot: P08708
+  protein: eS17
+  pdb_chain: SR
+  yeast: S17
+  bacteria: NA

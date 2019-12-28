@@ -3,11 +3,14 @@
 gene: RPL23
   description: ribosomal protein L23 
   subunit: large sub-unit
-  HGNC: 10316
-  ENSG: ENSG00000125691
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L14P family of ribosomal proteins. It is located in the cytoplasm. This gene has been referred to as rpL17 because the encoded protein shares amino acid identity with ribosomal protein L17 from Saccharomyces cerevisiae; however, its official symbol is RPL23. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L23; rpL17
+  ncbi: 9349
+  ensg: ENSG00000125691
+  omim: 603662
+  hgnc: 10316
   uniprot: P62829
-  description: ribosomal protein L23 
-  subunit: large sub-unit
-  HGNC: 10316
-  ENSG: ENSG00000125691
-  uniprot: P62829
+  protein: uL14
+  pdb_chain: LV
+  yeast: L23
+  bacteria: L14

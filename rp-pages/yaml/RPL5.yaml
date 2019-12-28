@@ -3,6 +3,14 @@
 gene: RPL5
   description: ribosomal protein L5 
   subunit: large sub-unit
-  HGNC: 10360
-  ENSG: ENSG00000122406
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of four RNA species and approximately 80 structurally distinct proteins. This gene encodes a member of the L18P family of ribosomal proteins and component of the 60S subunit. The encoded protein binds 5S rRNA to form a stable complex called the 5S ribonucleoprotein particle (RNP), which is necessary for the transport of nonribosome-associated cytoplasmic 5S rRNA to the nucleolus for assembly into ribosomes. The encoded protein may also function to inhibit tumorigenesis through the activation of downstream tumor suppressors and the downregulation of oncoprotein expression. Mutations in this gene have been identified in patients with Diamond-Blackfan Anemia (DBA). This gene is co-transcribed with the small nucleolar RNA gene U21, which is located in its fifth intron. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed throughout the genome. [provided by RefSeq, Mar 2017]
+  aka: L5; uL18; MSTP030; PPP1R135
+  ncbi: 6125
+  ensg: ENSG00000122406
+  omim: 603634
+  hgnc: 10360
   uniprot: P46777
+  protein: uL18
+  pdb_chain: LD
+  yeast: L5
+  bacteria: L18

@@ -3,6 +3,14 @@
 gene: RPL23A
   description: ribosomal protein L23a 
   subunit: large sub-unit
-  HGNC: 10317
-  ENSG: ENSG00000198242
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L23P family of ribosomal proteins. It is located in the cytoplasm. The protein may be one of the target molecules involved in mediating growth inhibition by interferon. In yeast, the corresponding protein binds to a specific site on the 26S rRNA. This gene is co-transcribed with the U42A, U42B, U101A, and U101B small nucleolar RNA genes, which are located in its third, first, second, and fourth introns, respectively. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L23A; MDA20
+  ncbi: 6147
+  ensg: ENSG00000198242
+  omim: 602326
+  hgnc: 10317
   uniprot: P62750
+  protein: uL23
+  pdb_chain: NA
+  yeast: L25
+  bacteria: L23

@@ -3,6 +3,14 @@
 gene: RPS2
   description: ribosomal protein S2 
   subunit: small sub-unit
-  HGNC: 10404
-  ENSG: ENSG00000140988
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S5P family of ribosomal proteins. It is located in the cytoplasm. This gene shares sequence similarity with mouse LLRep3. It is co-transcribed with the small nucleolar RNA gene U64, which is located in its third intron. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: S2; LLREP3
+  ncbi: 6187
+  ensg: ENSG00000140988
+  omim: 603624
+  hgnc: 10404
   uniprot: P15880
+  protein: uS5
+  pdb_chain: SC
+  yeast: S2
+  bacteria: S5

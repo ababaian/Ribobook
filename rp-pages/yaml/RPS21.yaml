@@ -3,6 +3,14 @@
 gene: RPS21
   description: ribosomal protein S21 
   subunit: small sub-unit
-  HGNC: 10409
-  ENSG: ENSG00000171858
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S21E family of ribosomal proteins. It is located in the cytoplasm. Alternative splice variants that encode different protein isoforms have been described, but their existence has not been verified. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: S21; HLDF
+  ncbi: 6227
+  ensg: ENSG00000171858
+  omim: 180477
+  hgnc: 10409
   uniprot: P63220
+  protein: eS21
+  pdb_chain: SV
+  yeast: S21
+  bacteria: NA

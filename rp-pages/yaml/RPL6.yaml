@@ -3,6 +3,14 @@
 gene: RPL6
   description: ribosomal protein L6 
   subunit: large sub-unit
-  HGNC: 10362
-  ENSG: ENSG00000089009
+  summary: This gene encodes a protein component of the 60S ribosomal subunit. This protein can bind specifically to domain C of the tax-responsive enhancer element of human T-cell leukemia virus type 1, and may participate in tax-mediated transactivation of transcription. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed throughout the genome. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Feb 2016]
+  aka: L6; TXREB1; SHUJUN-2; TAXREB107
+  ncbi: 6128
+  ensg: ENSG00000089009
+  omim: 603703
+  hgnc: 10362
   uniprot: Q02878
+  protein: eL6
+  pdb_chain: LE
+  yeast: L6
+  bacteria: NA

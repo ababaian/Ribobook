@@ -3,6 +3,14 @@
 gene: RPS24
   description: ribosomal protein S24 
   subunit: small sub-unit
-  HGNC: 10411
-  ENSG: ENSG00000138326
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S24E family of ribosomal proteins. It is located in the cytoplasm. Multiple transcript variants encoding different isoforms have been found for this gene. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Mutations in this gene result in Diamond-Blackfan anemia. [provided by RefSeq, Nov 2008]
+  aka: S24; DBA3; eS24
+  ncbi: 6229
+  ensg: ENSG00000138326
+  omim: 602412
+  hgnc: 10411
   uniprot: P62847
+  protein: eS24
+  pdb_chain: SY
+  yeast: S24
+  bacteria: NA

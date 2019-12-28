@@ -3,6 +3,14 @@
 gene: RPL29
   description: ribosomal protein L29 
   subunit: large sub-unit
-  HGNC: 10331
-  ENSG: ENSG00000162244
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a cytoplasmic ribosomal protein that is a component of the 60S subunit. The protein belongs to the L29E family of ribosomal proteins. The protein is also a peripheral membrane protein expressed on the cell surface that directly binds heparin. Although this gene was previously reported to map to 3q29-qter, it is believed that it is located at 3p21.3-p21.2. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: HIP; L29; HUMRPL29; RPL29P10; RPL29_3_370
+  ncbi: 6159
+  ensg: ENSG00000162244
+  omim: 601832
+  hgnc: 10331
   uniprot: P47914
+  protein: eL29
+  pdb_chain: Lb
+  yeast: L29
+  bacteria: NA

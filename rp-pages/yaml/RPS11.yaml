@@ -3,6 +3,14 @@
 gene: RPS11
   description: ribosomal protein S11 
   subunit: small sub-unit
-  HGNC: 10384
-  ENSG: ENSG00000142534
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a member of the S17P family of ribosomal proteins that is a component of the 40S subunit. This gene is co-transcribed with the small nucleolar RNA gene U35B, which is located in the third intron. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed throughout the genome. [provided by RefSeq, Jul 2012]
+  aka: S11
+  ncbi: 6205
+  ensg: ENSG00000142534
+  omim: 180471
+  hgnc: 10384
   uniprot: P62280
+  protein: uS17
+  pdb_chain: SL
+  yeast: S11
+  bacteria: S17

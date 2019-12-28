@@ -3,6 +3,14 @@
 gene: RPS3A
   description: ribosomal protein S3A 
   subunit: small sub-unit
-  HGNC: 10421
-  ENSG: ENSG00000145425
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S3AE family of ribosomal proteins. It is located in the cytoplasm. Disruption of the gene encoding rat ribosomal protein S3a, also named v-fos transformation effector protein, in v-fos-transformed rat cells results in reversion of the transformed phenotype. This gene is co-transcribed with the U73A and U73B small nucleolar RNA genes, which are located in its fourth and third introns, respectively. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Alternatively spliced transcript variants have been found for this gene. [provided by RefSeq, May 2012]
+  aka: S3A; FTE1; MFTL
+  ncbi: 6189
+  ensg: ENSG00000145425
+  omim: 180478
+  hgnc: 10421
   uniprot: P61247
+  protein: eS1
+  pdb_chain: SB
+  yeast: S1
+  bacteria: NA

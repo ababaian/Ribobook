@@ -3,6 +3,14 @@
 gene: RPS27
   description: ribosomal protein S27 
   subunit: small sub-unit
-  HGNC: 10416
-  ENSG: ENSG00000177954
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of four RNA species and approximately 80 structurally distinct proteins. This gene encodes a member of the S27e family of ribosomal proteins and component of the 40S subunit. The encoded protein contains a C4-type zinc finger domain that can bind to zinc and may bind to nucleic acid. Mutations in this gene have been identified in numerous melanoma patients and in at least one patient with Diamond-Blackfan anemia (DBA). Elevated expression of this gene has been observed in various human cancers. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2018]
+  aka: S27; MPS1; DBA17; MPS-1
+  ncbi: 6232
+  ensg: ENSG00000177954
+  omim: 603702
+  hgnc: 10416
   uniprot: P42677
+  protein: eS27
+  pdb_chain: Sb
+  yeast: S27
+  bacteria: NA

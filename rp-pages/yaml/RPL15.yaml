@@ -3,6 +3,14 @@
 gene: RPL15
   description: ribosomal protein L15 
   subunit: large sub-unit
-  HGNC: 10306
-  ENSG: ENSG00000174748
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of four RNA species and approximately 80 structurally distinct proteins. This gene encodes a member of the L15E family of ribosomal proteins and a component of the 60S subunit. This gene shares sequence similarity with the yeast ribosomal protein YL10 gene. Elevated expression of this gene has been observed in esophageal tumors and gastric cancer tissues, and deletion of this gene has been observed in a Diamond-Blackfan anemia (DBA) patient. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Mar 2017]
+  aka: L15; EC45; DBA12; RPL10; RPLY10; RPYL10
+  ncbi: 6138
+  ensg: ENSG00000174748
+  omim: 604174
+  hgnc: 10306
   uniprot: P61313
+  protein: eL15
+  pdb_chain: LN
+  yeast: L15
+  bacteria: NA

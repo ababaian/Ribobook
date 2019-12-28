@@ -3,6 +3,14 @@
 gene: RPL28
   description: ribosomal protein L28 
   subunit: large sub-unit
-  HGNC: 10330
-  ENSG: ENSG00000108107
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L28E family of ribosomal proteins. It is located in the cytoplasm. Variable expression of this gene in colorectal cancers compared to adjacent normal tissues has been observed, although no correlation between the level of expression and the severity of the disease has been found. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Alternative splicing results in multiple transcript variants encoding distinct isoforms.[provided by RefSeq, Oct 2008]
+  aka: L28
+  ncbi: 6158
+  ensg: ENSG00000108107
+  omim: 603638
+  hgnc: 10330
   uniprot: P46779
+  protein: eL28
+  pdb_chain: Lr
+  yeast: NA
+  bacteria: NA

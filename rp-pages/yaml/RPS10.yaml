@@ -3,6 +3,14 @@
 gene: RPS10
   description: ribosomal protein S10 
   subunit: small sub-unit
-  HGNC: 10383
-  ENSG: ENSG00000124614
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S10E family of ribosomal proteins. It is located in the cytoplasm. Variable expression of this gene in colorectal cancers compared to adjacent normal tissues has been observed, although no correlation between the level of expression and the severity of the disease has been found. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Alternate splicing results in multiple transcript variants that encode the same protein. Naturally occurring read-through transcription occurs between this locus and the neighboring locus NUDT3 (nudix (nucleoside diphosphate linked moiety X)-type motif 3).[provided by RefSeq, Feb 2011]
+  aka: S10; DBA9
+  ncbi: 6204
+  ensg: ENSG00000124614
+  omim: 603632
+  hgnc: 10383
   uniprot: P46783
+  protein: eS10
+  pdb_chain: SK
+  yeast: S10
+  bacteria: NA

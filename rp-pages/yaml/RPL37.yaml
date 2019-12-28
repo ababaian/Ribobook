@@ -3,6 +3,14 @@
 gene: RPL37
   description: ribosomal protein L37 
   subunit: large sub-unit
-  HGNC: 10347
-  ENSG: ENSG00000145592
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L37E family of ribosomal proteins. It is located in the cytoplasm. The protein contains a C2C2-type zinc finger-like motif. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L37
+  ncbi: 6167
+  ensg: ENSG00000145592
+  omim: 604181
+  hgnc: 10347
   uniprot: P61927
+  protein: eL37
+  pdb_chain: Lj
+  yeast: L37
+  bacteria: NA

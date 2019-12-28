@@ -3,6 +3,14 @@
 gene: RPS23
   description: ribosomal protein S23 
   subunit: small sub-unit
-  HGNC: 10410
-  ENSG: ENSG00000186468
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S12P family of ribosomal proteins. It is located in the cytoplasm. The protein shares significant amino acid similarity with S. cerevisiae ribosomal protein S28. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: S23; BTDD; uS12; MABAS; MCINS; PAMAS
+  ncbi: 6228
+  ensg: ENSG00000186468
+  omim: 603683
+  hgnc: 10410
   uniprot: P62266
+  protein: uS12
+  pdb_chain: SX
+  yeast: S23
+  bacteria: S12

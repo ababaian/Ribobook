@@ -3,6 +3,14 @@
 gene: RACK1
   description: receptor for activated C kinase 1 
   subunit: small sub-unit
-  HGNC: 4399
-  ENSG: ENSG00000204628
+  summary: NA
+  aka: H12.3; HLC-7; PIG21; GNB2L1; Gnb2-rs1
+  ncbi: 10399
+  ensg: ENSG00000204628
+  omim: 176981
+  hgnc: 4399
   uniprot: P63244
+  protein: RACK1
+  pdb_chain: Sg
+  yeast: Asc1
+  bacteria: NA

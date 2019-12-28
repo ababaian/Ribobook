@@ -3,6 +3,14 @@
 gene: RPLP2
   description: ribosomal protein lateral stalk subunit P2 
   subunit: large sub-unit
-  HGNC: 10377
-  ENSG: ENSG00000177600
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal phosphoprotein that is a component of the 60S subunit. The protein, which is a functional equivalent of the E. coli L7/L12 ribosomal protein, belongs to the L12P family of ribosomal proteins. It plays an important role in the elongation step of protein synthesis. Unlike most ribosomal proteins, which are basic, the encoded protein is acidic. Its C-terminal end is nearly identical to the C-terminal ends of the ribosomal phosphoproteins P0 and P1. The P2 protein can interact with P0 and P1 to form a pentameric complex consisting of P1 and P2 dimers, and a P0 monomer. The protein is located in the cytoplasm. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: P2; LP2; RPP2; D11S2243E
+  ncbi: 6181
+  ensg: ENSG00000177600
+  omim: 180530
+  hgnc: 10377
   uniprot: P05387
+  protein: P2
+  pdb_chain: NA
+  yeast: P2
+  bacteria: NA

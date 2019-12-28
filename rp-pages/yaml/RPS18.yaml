@@ -3,6 +3,14 @@
 gene: RPS18
   description: ribosomal protein S18 
   subunit: small sub-unit
-  HGNC: 10401
-  ENSG: ENSG00000231500
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S13P family of ribosomal proteins. It is located in the cytoplasm. The gene product of the E. coli ortholog (ribosomal protein S13) is involved in the binding of fMet-tRNA, and thus, in the initiation of translation. This gene is an ortholog of mouse Ke3. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: KE3; S18; HKE3; KE-3; D6S218E
+  ncbi: 6222
+  ensg: ENSG00000231500
+  omim: 180473
+  hgnc: 10401
   uniprot: P62269
+  protein: uS13
+  pdb_chain: SS
+  yeast: S18
+  bacteria: S13

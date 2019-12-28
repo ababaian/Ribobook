@@ -3,6 +3,14 @@
 gene: RPL10
   description: ribosomal protein L10 
   subunit: large sub-unit
-  HGNC: 10298
-  ENSG: ENSG00000147403
+  summary: This gene encodes a ribosomal protein that is a component of the 60S ribosome subunit. The related protein in chicken can bind to c-Jun and can repress c-Jun-mediated transcriptional activation. Some studies have detected an association between variation in this gene and autism spectrum disorders, though others do not detect this relationship. There are multiple pseudogenes of this gene dispersed throughout the genome. Alternative splicing results in multiple transcript variants. [provided by RefSeq, Jan 2015]
+  aka: QM; L10; NOV; AUTSX5; DXS648; MRXS35; DXS648E
+  ncbi: 6134
+  ensg: ENSG00000147403
+  omim: 312173
+  hgnc: 10298
   uniprot: P27635
+  protein: uL16
+  pdb_chain: LI
+  yeast: L10
+  bacteria: L16

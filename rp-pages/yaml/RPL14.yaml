@@ -3,6 +3,14 @@
 gene: RPL14
   description: ribosomal protein L14 
   subunit: large sub-unit
-  HGNC: 10305
-  ENSG: ENSG00000188846
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L14E family of ribosomal proteins. It contains a basic region-leucine zipper (bZIP)-like domain. The protein is located in the cytoplasm. This gene contains a trinucleotide (GCT) repeat tract whose length is highly polymorphic; these triplet repeats result in a stretch of alanine residues in the encoded protein. Transcript variants utilizing alternative polyA signals and alternative 5'-terminal exons exist but all encode the same protein. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L14; RL14; hRL14; CTG-B33; CAG-ISL-7
+  ncbi: 9045
+  ensg: ENSG00000188846
+  omim: 617414
+  hgnc: 10305
   uniprot: P50914
+  protein: eL14
+  pdb_chain: LM
+  yeast: L14
+  bacteria: NA

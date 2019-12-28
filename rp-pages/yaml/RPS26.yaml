@@ -3,6 +3,14 @@
 gene: RPS26
   description: ribosomal protein S26 
   subunit: small sub-unit
-  HGNC: 10414
-  ENSG: ENSG00000197728
+  summary: This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S26E family of ribosomal proteins. Mutations in this gene are found in Diamond-Blackfan anemia 10. There are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Aug 2017]
+  aka: S26; eS26; DBA10
+  ncbi: 6231
+  ensg: ENSG00000197728
+  omim: 603701
+  hgnc: 10414
   uniprot: P62854
+  protein: eS26
+  pdb_chain: Sa
+  yeast: S26
+  bacteria: NA

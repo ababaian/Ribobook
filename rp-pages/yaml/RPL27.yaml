@@ -3,6 +3,14 @@
 gene: RPL27
   description: ribosomal protein L27 
   subunit: large sub-unit
-  HGNC: 10328
-  ENSG: ENSG00000131469
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of four RNA species and approximately 80 structurally distinct proteins. This gene encodes a member of the L27e family of ribosomal proteins and a component of the 60S subunit. A splice site mutation in this gene has been identified in a Diamond-Blackfan anemia (DBA) patient. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Mar 2017]
+  aka: L27; DBA16
+  ncbi: 6155
+  ensg: ENSG00000131469
+  omim: 607526
+  hgnc: 10328
   uniprot: P61353
+  protein: eL27
+  pdb_chain: LZ
+  yeast: L27
+  bacteria: NA

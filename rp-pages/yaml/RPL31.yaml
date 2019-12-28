@@ -3,6 +3,14 @@
 gene: RPL31
   description: ribosomal protein L31 
   subunit: large sub-unit
-  HGNC: 10334
-  ENSG: ENSG00000071082
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L31E family of ribosomal proteins. It is located in the cytoplasm. Higher levels of expression of this gene in familial adenomatous polyps compared to matched normal tissues have been observed. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Alternatively spliced transcript variants encoding distinct isoforms have been found for this gene. [provided by RefSeq, Jul 2008]
+  aka: L31
+  ncbi: 6160
+  ensg: ENSG00000071082
+  omim: 617415
+  hgnc: 10334
   uniprot: P62899
+  protein: eL31
+  pdb_chain: Ld
+  yeast: L31
+  bacteria: NA

@@ -3,6 +3,14 @@
 gene: RPL3
   description: ribosomal protein L3 
   subunit: large sub-unit
-  HGNC: 10332
-  ENSG: ENSG00000100316
+  summary: Ribosomes, the complexes that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L3P family of ribosomal proteins and it is located in the cytoplasm. The protein can bind to the HIV-1 TAR mRNA, and it has been suggested that the protein contributes to tat-mediated transactivation. This gene is co-transcribed with several small nucleolar RNA genes, which are located in several of this gene's introns. Alternate transcriptional splice variants, encoding different isoforms, have been characterized. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L3; ASC-1; TARBP-B
+  ncbi: 6122
+  ensg: ENSG00000100316
+  omim: 604163
+  hgnc: 10332
   uniprot: P39023
+  protein: uL3
+  pdb_chain: LB
+  yeast: L3
+  bacteria: L3

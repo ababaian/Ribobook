@@ -3,6 +3,14 @@
 gene: RPS20
   description: ribosomal protein S20 
   subunit: small sub-unit
-  HGNC: 10405
-  ENSG: ENSG00000008988
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S10P family of ribosomal proteins. It is located in the cytoplasm. This gene is co-transcribed with the small nucleolar RNA gene U54, which is located in its second intron. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Two transcript variants encoding different isoforms have been identified for this gene. [provided by RefSeq, Apr 2009]
+  aka: S20; uS10
+  ncbi: 6224
+  ensg: ENSG00000008988
+  omim: 603682
+  hgnc: 10405
   uniprot: P60866
+  protein: uS10
+  pdb_chain: SU
+  yeast: S20
+  bacteria: S10

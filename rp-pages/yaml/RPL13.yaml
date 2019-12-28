@@ -3,6 +3,14 @@
 gene: RPL13
   description: ribosomal protein L13 
   subunit: large sub-unit
-  HGNC: 10303
-  ENSG: ENSG00000167526
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L13E family of ribosomal proteins. It is located in the cytoplasm. This gene is expressed at significantly higher levels in benign breast lesions than in breast carcinomas. Alternatively spliced transcript variants encoding distinct isoforms have been found for this gene. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2011]
+  aka: L13; BBC1; D16S44E; D16S444E
+  ncbi: 6137
+  ensg: ENSG00000167526
+  omim: 113703
+  hgnc: 10303
   uniprot: P26373
+  protein: eL13
+  pdb_chain: LL
+  yeast: L13
+  bacteria: NA

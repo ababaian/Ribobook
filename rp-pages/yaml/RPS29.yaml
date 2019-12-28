@@ -3,6 +3,14 @@
 gene: RPS29
   description: ribosomal protein S29 
   subunit: small sub-unit
-  HGNC: 10419
-  ENSG: ENSG00000213741
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit and a member of the S14P family of ribosomal proteins. The protein, which contains a C2-C2 zinc finger-like domain that can bind to zinc, can enhance the tumor suppressor activity of Ras-related protein 1A (KREV1). It is located in the cytoplasm. Variable expression of this gene in colorectal cancers compared to adjacent normal tissues has been observed, although no correlation between the level of expression and the severity of the disease has been found. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, Mar 2013]
+  aka: S29; uS14; DBA13
+  ncbi: 6235
+  ensg: ENSG00000213741
+  omim: 603633
+  hgnc: 10419
   uniprot: P62273
+  protein: uS14
+  pdb_chain: Sd
+  yeast: S29
+  bacteria: S14

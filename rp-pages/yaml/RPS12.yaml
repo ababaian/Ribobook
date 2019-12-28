@@ -3,6 +3,14 @@
 gene: RPS12
   description: ribosomal protein S12 
   subunit: small sub-unit
-  HGNC: 10385
-  ENSG: ENSG00000112306
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit. The protein belongs to the S12E family of ribosomal proteins. It is located in the cytoplasm. Increased expression of this gene in colorectal cancers compared to matched normal colonic mucosa has been observed. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: S12
+  ncbi: 6206
+  ensg: ENSG00000112306
+  omim: 603660
+  hgnc: 10385
   uniprot: P25398
+  protein: eS12
+  pdb_chain: SM
+  yeast: S12
+  bacteria: NA

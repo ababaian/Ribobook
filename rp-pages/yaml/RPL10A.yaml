@@ -3,6 +3,14 @@
 gene: RPL10A
   description: ribosomal protein L10a 
   subunit: large sub-unit
-  HGNC: 10299
-  ENSG: ENSG00000198755
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L1P family of ribosomal proteins. It is located in the cytoplasm. The expression of this gene is downregulated in the thymus by cyclosporin-A (CsA), an immunosuppressive drug. Studies in mice have shown that the expression of the ribosomal protein L10a gene is downregulated in neural precursor cells during development. This gene previously was referred to as NEDD6 (neural precursor cell expressed, developmentally downregulated 6), but it has been renamed RPL10A (ribosomal protein 10a). As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L10A; CSA19; NEDD6; Csa-19
+  ncbi: 4736
+  ensg: ENSG00000198755
+  omim: 615660
+  hgnc: 10299
   uniprot: P62906
+  protein: uL1
+  pdb_chain: Lz
+  yeast: L1
+  bacteria: L1

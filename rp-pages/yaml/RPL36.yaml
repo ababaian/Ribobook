@@ -3,6 +3,14 @@
 gene: RPL36
   description: ribosomal protein L36 
   subunit: large sub-unit
-  HGNC: 13631
-  ENSG: ENSG00000130255
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L36E family of ribosomal proteins. It is located in the cytoplasm. Transcript variants derived from alternative splicing exist; they encode the same protein. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L36
+  ncbi: 25873
+  ensg: ENSG00000130255
+  omim: 617893
+  hgnc: 13631
   uniprot: Q9Y3U8
+  protein: eL36
+  pdb_chain: Li
+  yeast: L36
+  bacteria: NA

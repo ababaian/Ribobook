@@ -3,6 +3,14 @@
 gene: RPL18A
   description: ribosomal protein L18a 
   subunit: large sub-unit
-  HGNC: 10311
-  ENSG: ENSG00000105640
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a member of the L18AE family of ribosomal proteins that is a component of the 60S subunit. The encoded protein may play a role in viral replication by interacting with the hepatitis C virus internal ribosome entry site (IRES). This gene is co-transcribed with the U68 snoRNA, located within the third intron. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed throughout the genome. [provided by RefSeq, Jul 2012]
+  aka: L18A
+  ncbi: 6142
+  ensg: ENSG00000105640
+  omim: 604178
+  hgnc: 10311
   uniprot: Q02543
+  protein: eL20
+  pdb_chain: LS
+  yeast: L20
+  bacteria: NA

@@ -3,6 +3,14 @@
 gene: RPL27A
   description: ribosomal protein L27a 
   subunit: large sub-unit
-  HGNC: 10329
-  ENSG: ENSG00000166441
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L15P family of ribosomal proteins. It is located in the cytoplasm. Variable expression of this gene in colorectal cancers compared to adjacent normal tissues has been observed, although no correlation between the level of expression and the severity of the disease has been found. As is typical for genes encoding ribosomal proteins, multiple processed pseudogenes derived from this gene are dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L27A
+  ncbi: 6157
+  ensg: ENSG00000166441
+  omim: 603637
+  hgnc: 10329
   uniprot: P46776
+  protein: uL15
+  pdb_chain: La
+  yeast: L28
+  bacteria: L15

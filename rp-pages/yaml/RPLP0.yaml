@@ -3,6 +3,14 @@
 gene: RPLP0
   description: ribosomal protein lateral stalk subunit P0 
   subunit: large sub-unit
-  HGNC: 10371
-  ENSG: ENSG00000089157
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein, which is the functional equivalent of the E. coli L10 ribosomal protein, belongs to the L10P family of ribosomal proteins. It is a neutral phosphoprotein with a C-terminal end that is nearly identical to the C-terminal ends of the acidic ribosomal phosphoproteins P1 and P2. The P0 protein can interact with P1 and P2 to form a pentameric complex consisting of P1 and P2 dimers, and a P0 monomer. The protein is located in the cytoplasm. Transcript variants derived from alternative splicing exist; they encode the same protein. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: P0; LP0; L10E; RPP0; PRLP0
+  ncbi: 6175
+  ensg: ENSG00000089157
+  omim: 180510
+  hgnc: 10371
   uniprot: P05388
+  protein: uL10
+  pdb_chain: NA
+  yeast: P0
+  bacteria: L10

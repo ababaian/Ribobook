@@ -3,6 +3,14 @@
 gene: RPL30
   description: ribosomal protein L30 
   subunit: large sub-unit
-  HGNC: 10333
-  ENSG: ENSG00000156482
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L30E family of ribosomal proteins. It is located in the cytoplasm. This gene is co-transcribed with the U72 small nucleolar RNA gene, which is located in its fourth intron. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L30
+  ncbi: 6156
+  ensg: ENSG00000156482
+  omim: 180467
+  hgnc: 10333
   uniprot: P62888
+  protein: eL30
+  pdb_chain: Lc
+  yeast: L30
+  bacteria: NA

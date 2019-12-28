@@ -3,6 +3,14 @@
 gene: RPL24
   description: ribosomal protein L24 
   subunit: large sub-unit
-  HGNC: 10325
-  ENSG: ENSG00000114391
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 60S subunit. The protein belongs to the L24E family of ribosomal proteins. It is located in the cytoplasm. This gene has been referred to as ribosomal protein L30 because the encoded protein shares amino acid identity with the L30 ribosomal proteins from S. cerevisiae; however, its official name is ribosomal protein L24. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. [provided by RefSeq, Jul 2008]
+  aka: L24; HEL-S-310
+  ncbi: 6152
+  ensg: ENSG00000114391
+  omim: 604180
+  hgnc: 10325
   uniprot: P83731
+  protein: eL24
+  pdb_chain: LW
+  yeast: L24
+  bacteria: NA

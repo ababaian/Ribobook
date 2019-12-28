@@ -3,6 +3,14 @@
 gene: UBA52
   description: ubiquitin A-52 residue ribosomal protein fusion product 1 
   subunit: large sub-unit
-  HGNC: 12458
-  ENSG: ENSG00000221983
+  summary: Ubiquitin is a highly conserved nuclear and cytoplasmic protein that has a major role in targeting cellular proteins for degradation by the 26S proteosome. It is also involved in the maintenance of chromatin structure, the regulation of gene expression, and the stress response. Ubiquitin is synthesized as a precursor protein consisting of either polyubiquitin chains or a single ubiquitin moiety fused to an unrelated protein. This gene encodes a fusion protein consisting of ubiquitin at the N terminus and ribosomal protein L40 at the C terminus, a C-terminal extension protein (CEP). Multiple processed pseudogenes derived from this gene are present in the genome. [provided by RefSeq, Jul 2008]
+  aka: L40; CEP52; RPL40; HUBCEP52
+  ncbi: 7311
+  ensg: ENSG00000221983
+  omim: 191321
+  hgnc: 12458
   uniprot: P62987
+  protein: eL40
+  pdb_chain: Lm
+  yeast: L40
+  bacteria: NA

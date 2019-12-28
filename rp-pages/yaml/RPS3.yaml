@@ -3,6 +3,14 @@
 gene: RPS3
   description: ribosomal protein S3 
   subunit: small sub-unit
-  HGNC: 10420
-  ENSG: ENSG00000149273
+  summary: Ribosomes, the organelles that catalyze protein synthesis, consist of a small 40S subunit and a large 60S subunit. Together these subunits are composed of 4 RNA species and approximately 80 structurally distinct proteins. This gene encodes a ribosomal protein that is a component of the 40S subunit, where it forms part of the domain where translation is initiated. The protein belongs to the S3P family of ribosomal proteins. Studies of the mouse and rat proteins have demonstrated that the protein has an extraribosomal role as an endonuclease involved in the repair of UV-induced DNA damage. The protein appears to be located in both the cytoplasm and nucleus but not in the nucleolus. Higher levels of expression of this gene in colon adenocarcinomas and adenomatous polyps compared to adjacent normal colonic mucosa have been observed. This gene is co-transcribed with the small nucleolar RNA genes U15A and U15B, which are located in its first and fifth introns, respectively. As is typical for genes encoding ribosomal proteins, there are multiple processed pseudogenes of this gene dispersed through the genome. Multiple alternatively spliced transcript variants encoding different isoforms have been found for this gene. [provided by RefSeq, May 2012]
+  aka: S3
+  ncbi: 6188
+  ensg: ENSG00000149273
+  omim: 600454
+  hgnc: 10420
   uniprot: P23396
+  protein: uS3
+  pdb_chain: SD
+  yeast: S3
+  bacteria: S3

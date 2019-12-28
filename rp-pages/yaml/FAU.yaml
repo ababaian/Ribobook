@@ -3,6 +3,14 @@
 gene: FAU
   description: FAU ubiquitin like and ribosomal protein S30 fusion 
   subunit: small sub-unit
-  HGNC: 3597
-  ENSG: ENSG00000149806
+  summary: This gene is the cellular homolog of the fox sequence in the Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV). It encodes a fusion protein consisting of the ubiquitin-like protein fubi at the N terminus and ribosomal protein S30 at the C terminus. It has been proposed that the fusion protein is post-translationally processed to generate free fubi and free ribosomal protein S30. Fubi is a member of the ubiquitin family, and ribosomal protein S30 belongs to the S30E family of ribosomal proteins. Whereas the function of fubi is currently unknown, ribosomal protein S30 is a component of the 40S subunit of the cytoplasmic ribosome and displays antimicrobial activity. Pseudogenes derived from this gene are present in the genome. Similar to ribosomal protein S30, ribosomal proteins S27a and L40 are synthesized as fusion proteins with ubiquitin. [provided by RefSeq, Nov 2014]
+  aka: S30; FAU1; Fub1; Fubi; asr1; RPS30; MNSFbeta
+  ncbi: 2197
+  ensg: ENSG00000149806
+  omim: 134690
+  hgnc: 3597
   uniprot: P62861
+  protein: eS30
+  pdb_chain: Se
+  yeast: S30
+  bacteria: NA

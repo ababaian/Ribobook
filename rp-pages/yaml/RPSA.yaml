@@ -3,6 +3,14 @@
 gene: RPSA
   description: ribosomal protein SA 
   subunit: small sub-unit
-  HGNC: 6502
-  ENSG: ENSG00000168028
+  summary: Laminins, a family of extracellular matrix glycoproteins, are the major noncollagenous constituent of basement membranes. They have been implicated in a wide variety of biological processes including cell adhesion, differentiation, migration, signaling, neurite outgrowth and metastasis. Many of the effects of laminin are mediated through interactions with cell surface receptors. These receptors include members of the integrin family, as well as non-integrin laminin-binding proteins. This gene encodes a high-affinity, non-integrin family, laminin receptor 1. This receptor has been variously called 67 kD laminin receptor, 37 kD laminin receptor precursor (37LRP) and p40 ribosome-associated protein. The amino acid sequence of laminin receptor 1 is highly conserved through evolution, suggesting a key biological function. It has been observed that the level of the laminin receptor transcript is higher in colon carcinoma tissue and lung cancer cell line than their normal counterparts. Also, there is a correlation between the upregulation of this polypeptide in cancer cells and their invasive and metastatic phenotype. Multiple copies of this gene exist, however, most of them are pseudogenes thought to have arisen from retropositional events. Two alternatively spliced transcript variants encoding the same protein have been found for this gene. [provided by RefSeq, Jul 2008]
+  aka: SA; LBP; LRP; p40; 67LR; ICAS; lamR; 37LRP; LAMBR; LAMR1; LRP/LR; LBP/p40; NEM/1CHD4
+  ncbi: 3921
+  ensg: ENSG00000168028
+  omim: 150370
+  hgnc: 6502
   uniprot: P08865
+  protein: uS2
+  pdb_chain: SA
+  yeast: S0
+  bacteria: S2
