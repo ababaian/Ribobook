@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS9
+  description: ribosomal protein S9 
+  subunit: small sub-unit
+  HGNC: 10442
+  ENSG: ENSG00000170889
+  uniprot: P46781

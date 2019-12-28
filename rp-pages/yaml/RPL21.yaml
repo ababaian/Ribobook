@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL21
+  description: ribosomal protein L21 
+  subunit: large sub-unit
+  HGNC: 10313
+  ENSG: ENSG00000122026
+  uniprot: P46778

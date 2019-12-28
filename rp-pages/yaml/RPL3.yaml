@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL3
+  description: ribosomal protein L3 
+  subunit: large sub-unit
+  HGNC: 10332
+  ENSG: ENSG00000100316
+  uniprot: P39023

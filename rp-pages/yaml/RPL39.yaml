@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL39
+  description: ribosomal protein L39 
+  subunit: large sub-unit
+  HGNC: 10350
+  ENSG: ENSG00000198918
+  uniprot: P62891

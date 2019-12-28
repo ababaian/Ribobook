@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL5
+  description: ribosomal protein L5 
+  subunit: large sub-unit
+  HGNC: 10360
+  ENSG: ENSG00000122406
+  uniprot: P46777

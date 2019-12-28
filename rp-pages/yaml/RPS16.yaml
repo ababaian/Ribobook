@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS16
+  description: ribosomal protein S16 
+  subunit: small sub-unit
+  HGNC: 10396
+  ENSG: ENSG00000105193
+  uniprot: P62249

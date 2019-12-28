@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL15
+  description: ribosomal protein L15 
+  subunit: large sub-unit
+  HGNC: 10306
+  ENSG: ENSG00000174748
+  uniprot: P61313

@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS14
+  description: ribosomal protein S14 
+  subunit: small sub-unit
+  HGNC: 10387
+  ENSG: ENSG00000164587
+  uniprot: P62263

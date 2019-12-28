@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS27A
+  description: ribosomal protein S27a 
+  subunit: small sub-unit
+  HGNC: 10417
+  ENSG: ENSG00000143947
+  uniprot: P62979

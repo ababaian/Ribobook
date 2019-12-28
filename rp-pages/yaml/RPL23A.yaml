@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL23A
+  description: ribosomal protein L23a 
+  subunit: large sub-unit
+  HGNC: 10317
+  ENSG: ENSG00000198242
+  uniprot: P62750

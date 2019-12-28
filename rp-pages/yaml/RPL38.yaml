@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL38
+  description: ribosomal protein L38 
+  subunit: large sub-unit
+  HGNC: 10349
+  ENSG: ENSG00000172809
+  uniprot: P63173

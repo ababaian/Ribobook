@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL35
+  description: ribosomal protein L35 
+  subunit: large sub-unit
+  HGNC: 10344
+  ENSG: ENSG00000136942
+  uniprot: P42766

@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RACK1
+  description: receptor for activated C kinase 1 
+  subunit: small sub-unit
+  HGNC: 4399
+  ENSG: ENSG00000204628
+  uniprot: P63244

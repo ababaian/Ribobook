@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS13
+  description: ribosomal protein S13 
+  subunit: small sub-unit
+  HGNC: 10386
+  ENSG: ENSG00000110700
+  uniprot: P62277

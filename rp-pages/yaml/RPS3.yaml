@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS3
+  description: ribosomal protein S3 
+  subunit: small sub-unit
+  HGNC: 10420
+  ENSG: ENSG00000149273
+  uniprot: P23396

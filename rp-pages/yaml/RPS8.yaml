@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS8
+  description: ribosomal protein S8 
+  subunit: small sub-unit
+  HGNC: 10441
+  ENSG: ENSG00000142937
+  uniprot: P62241

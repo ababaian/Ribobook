@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS4Y1
+  description: ribosomal protein S4 Y-linked 1 
+  subunit: small sub-unit
+  HGNC: 10425
+  ENSG: ENSG00000129824
+  uniprot: P22090

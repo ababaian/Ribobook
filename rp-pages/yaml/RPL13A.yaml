@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL13A
+  description: ribosomal protein L13a 
+  subunit: large sub-unit
+  HGNC: 10304
+  ENSG: ENSG00000142541
+  uniprot: P40429

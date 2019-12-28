@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS6
+  description: ribosomal protein S6 
+  subunit: small sub-unit
+  HGNC: 10429
+  ENSG: ENSG00000137154
+  uniprot: P62753

@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS17
+  description: ribosomal protein S17 
+  subunit: small sub-unit
+  HGNC: 10397
+  ENSG: ENSG00000182774
+  uniprot: P08708

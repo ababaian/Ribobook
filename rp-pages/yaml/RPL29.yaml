@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL29
+  description: ribosomal protein L29 
+  subunit: large sub-unit
+  HGNC: 10331
+  ENSG: ENSG00000162244
+  uniprot: P47914

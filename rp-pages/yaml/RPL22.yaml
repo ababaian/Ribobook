@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL22
+  description: ribosomal protein L22 
+  subunit: large sub-unit
+  HGNC: 10315
+  ENSG: ENSG00000116251
+  uniprot: P35268

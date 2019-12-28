@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: UBA52
+  description: ubiquitin A-52 residue ribosomal protein fusion product 1 
+  subunit: large sub-unit
+  HGNC: 12458
+  ENSG: ENSG00000221983
+  uniprot: P62987

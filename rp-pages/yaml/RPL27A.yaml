@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL27A
+  description: ribosomal protein L27a 
+  subunit: large sub-unit
+  HGNC: 10329
+  ENSG: ENSG00000166441
+  uniprot: P46776

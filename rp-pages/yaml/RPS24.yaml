@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS24
+  description: ribosomal protein S24 
+  subunit: small sub-unit
+  HGNC: 10411
+  ENSG: ENSG00000138326
+  uniprot: P62847

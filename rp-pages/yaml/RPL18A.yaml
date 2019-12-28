@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL18A
+  description: ribosomal protein L18a 
+  subunit: large sub-unit
+  HGNC: 10311
+  ENSG: ENSG00000105640
+  uniprot: Q02543

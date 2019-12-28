@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS11
+  description: ribosomal protein S11 
+  subunit: small sub-unit
+  HGNC: 10384
+  ENSG: ENSG00000142534
+  uniprot: P62280

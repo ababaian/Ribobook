@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS26
+  description: ribosomal protein S26 
+  subunit: small sub-unit
+  HGNC: 10414
+  ENSG: ENSG00000197728
+  uniprot: P62854

@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS7
+  description: ribosomal protein S7 
+  subunit: small sub-unit
+  HGNC: 10440
+  ENSG: ENSG00000171863
+  uniprot: P62081

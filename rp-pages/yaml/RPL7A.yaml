@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL7A
+  description: ribosomal protein L7a 
+  subunit: large sub-unit
+  HGNC: 10364
+  ENSG: ENSG00000148303
+  uniprot: P62424

@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPLP1
+  description: ribosomal protein lateral stalk subunit P1 
+  subunit: large sub-unit
+  HGNC: 10372
+  ENSG: ENSG00000137818
+  uniprot: P05386

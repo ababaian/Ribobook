@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL31
+  description: ribosomal protein L31 
+  subunit: large sub-unit
+  HGNC: 10334
+  ENSG: ENSG00000071082
+  uniprot: P62899

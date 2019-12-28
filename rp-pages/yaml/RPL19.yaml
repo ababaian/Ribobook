@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL19
+  description: ribosomal protein L19 
+  subunit: large sub-unit
+  HGNC: 10312
+  ENSG: ENSG00000108298
+  uniprot: P84098

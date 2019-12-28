@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS25
+  description: ribosomal protein S25 
+  subunit: small sub-unit
+  HGNC: 10413
+  ENSG: ENSG00000118181
+  uniprot: P62851

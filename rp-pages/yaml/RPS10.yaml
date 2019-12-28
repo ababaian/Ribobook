@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS10
+  description: ribosomal protein S10 
+  subunit: small sub-unit
+  HGNC: 10383
+  ENSG: ENSG00000124614
+  uniprot: P46783

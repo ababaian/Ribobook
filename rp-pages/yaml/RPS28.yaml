@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS28
+  description: ribosomal protein S28 
+  subunit: small sub-unit
+  HGNC: 10418
+  ENSG: ENSG00000233927
+  uniprot: P62857

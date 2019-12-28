@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL10A
+  description: ribosomal protein L10a 
+  subunit: large sub-unit
+  HGNC: 10299
+  ENSG: ENSG00000198755
+  uniprot: P62906

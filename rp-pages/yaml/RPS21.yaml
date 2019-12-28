@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS21
+  description: ribosomal protein S21 
+  subunit: small sub-unit
+  HGNC: 10409
+  ENSG: ENSG00000171858
+  uniprot: P63220

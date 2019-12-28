@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL11
+  description: ribosomal protein L11 
+  subunit: large sub-unit
+  HGNC: 10301
+  ENSG: ENSG00000142676
+  uniprot: P62913

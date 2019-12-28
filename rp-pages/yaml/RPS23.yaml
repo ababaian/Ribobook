@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS23
+  description: ribosomal protein S23 
+  subunit: small sub-unit
+  HGNC: 10410
+  ENSG: ENSG00000186468
+  uniprot: P62266

@@ -1,0 +1,13 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL23
+  description: ribosomal protein L23 
+  subunit: large sub-unit
+  HGNC: 10316
+  ENSG: ENSG00000125691
+  uniprot: P62829
+  description: ribosomal protein L23 
+  subunit: large sub-unit
+  HGNC: 10316
+  ENSG: ENSG00000125691
+  uniprot: P62829

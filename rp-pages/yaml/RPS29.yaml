@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS29
+  description: ribosomal protein S29 
+  subunit: small sub-unit
+  HGNC: 10419
+  ENSG: ENSG00000213741
+  uniprot: P62273

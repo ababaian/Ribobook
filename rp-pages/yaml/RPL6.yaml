@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL6
+  description: ribosomal protein L6 
+  subunit: large sub-unit
+  HGNC: 10362
+  ENSG: ENSG00000089009
+  uniprot: Q02878

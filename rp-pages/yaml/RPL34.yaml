@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL34
+  description: ribosomal protein L34 
+  subunit: large sub-unit
+  HGNC: 10340
+  ENSG: ENSG00000109475
+  uniprot: P49207

@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS12
+  description: ribosomal protein S12 
+  subunit: small sub-unit
+  HGNC: 10385
+  ENSG: ENSG00000112306
+  uniprot: P25398

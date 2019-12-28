@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL24
+  description: ribosomal protein L24 
+  subunit: large sub-unit
+  HGNC: 10325
+  ENSG: ENSG00000114391
+  uniprot: P83731

@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS3A
+  description: ribosomal protein S3A 
+  subunit: small sub-unit
+  HGNC: 10421
+  ENSG: ENSG00000145425
+  uniprot: P61247

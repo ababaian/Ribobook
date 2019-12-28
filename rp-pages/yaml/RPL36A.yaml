@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL36A
+  description: ribosomal protein L36a 
+  subunit: large sub-unit
+  HGNC: 10359
+  ENSG: ENSG00000241343
+  uniprot: P83881

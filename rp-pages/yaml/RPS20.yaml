@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS20
+  description: ribosomal protein S20 
+  subunit: small sub-unit
+  HGNC: 10405
+  ENSG: ENSG00000008988
+  uniprot: P60866

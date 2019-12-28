@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL14
+  description: ribosomal protein L14 
+  subunit: large sub-unit
+  HGNC: 10305
+  ENSG: ENSG00000188846
+  uniprot: P50914

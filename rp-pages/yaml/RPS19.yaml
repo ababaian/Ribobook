@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS19
+  description: ribosomal protein S19 
+  subunit: small sub-unit
+  HGNC: 10402
+  ENSG: ENSG00000105372
+  uniprot: P39019

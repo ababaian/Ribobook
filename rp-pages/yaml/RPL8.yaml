@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL8
+  description: ribosomal protein L8 
+  subunit: large sub-unit
+  HGNC: 10368
+  ENSG: ENSG00000161016
+  uniprot: P62917

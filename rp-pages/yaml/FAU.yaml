@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: FAU
+  description: FAU ubiquitin like and ribosomal protein S30 fusion 
+  subunit: small sub-unit
+  HGNC: 3597
+  ENSG: ENSG00000149806
+  uniprot: P62861

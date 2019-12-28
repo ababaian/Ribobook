@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS15
+  description: ribosomal protein S15 
+  subunit: small sub-unit
+  HGNC: 10388
+  ENSG: ENSG00000115268
+  uniprot: P62841

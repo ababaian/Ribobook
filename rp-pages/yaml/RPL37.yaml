@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL37
+  description: ribosomal protein L37 
+  subunit: large sub-unit
+  HGNC: 10347
+  ENSG: ENSG00000145592
+  uniprot: P61927

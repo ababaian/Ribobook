@@ -1,0 +1,89 @@
+gene	description	subunit	HGNC	ENSG	uniprot
+RPSA	ribosomal protein SA 	small sub-unit	6502	ENSG00000168028	P08865
+RPS2	ribosomal protein S2 	small sub-unit	10404	ENSG00000140988	P15880
+RPS3	ribosomal protein S3 	small sub-unit	10420	ENSG00000149273	P23396
+RPS3A	ribosomal protein S3A 	small sub-unit	10421	ENSG00000145425	P61247
+RPS4X	ribosomal protein S4 X-linked 	small sub-unit	10424	ENSG00000198034	P62701
+RPS4Y1	ribosomal protein S4 Y-linked 1 	small sub-unit	10425	ENSG00000129824	P22090
+RPS5	ribosomal protein S5 	small sub-unit	10426	ENSG00000083845	P46782
+RPS6	ribosomal protein S6 	small sub-unit	10429	ENSG00000137154	P62753
+RPS7	ribosomal protein S7 	small sub-unit	10440	ENSG00000171863	P62081
+RPS8	ribosomal protein S8 	small sub-unit	10441	ENSG00000142937	P62241
+RPS9	ribosomal protein S9 	small sub-unit	10442	ENSG00000170889	P46781
+RPS10	ribosomal protein S10 	small sub-unit	10383	ENSG00000124614	P46783
+RPS11	ribosomal protein S11 	small sub-unit	10384	ENSG00000142534	P62280
+RPS12	ribosomal protein S12 	small sub-unit	10385	ENSG00000112306	P25398
+RPS13	ribosomal protein S13 	small sub-unit	10386	ENSG00000110700	P62277
+RPS14	ribosomal protein S14 	small sub-unit	10387	ENSG00000164587	P62263
+RPS15	ribosomal protein S15 	small sub-unit	10388	ENSG00000115268	P62841
+RPS15A	ribosomal protein S15a 	small sub-unit	10389	ENSG00000134419	P62244
+RPS16	ribosomal protein S16 	small sub-unit	10396	ENSG00000105193	P62249
+RPS17	ribosomal protein S17 	small sub-unit	10397	ENSG00000182774	P08708
+RPS18	ribosomal protein S18 	small sub-unit	10401	ENSG00000231500	P62269
+RPS19	ribosomal protein S19 	small sub-unit	10402	ENSG00000105372	P39019
+RPS20	ribosomal protein S20 	small sub-unit	10405	ENSG00000008988	P60866
+RPS21	ribosomal protein S21 	small sub-unit	10409	ENSG00000171858	P63220
+RPS23	ribosomal protein S23 	small sub-unit	10410	ENSG00000186468	P62266
+RPS24	ribosomal protein S24 	small sub-unit	10411	ENSG00000138326	P62847
+RPS25	ribosomal protein S25 	small sub-unit	10413	ENSG00000118181	P62851
+RPS26	ribosomal protein S26 	small sub-unit	10414	ENSG00000197728	P62854
+RPS27	ribosomal protein S27 	small sub-unit	10416	ENSG00000177954	P42677
+RPS27A	ribosomal protein S27a 	small sub-unit	10417	ENSG00000143947	P62979
+RPS28	ribosomal protein S28 	small sub-unit	10418	ENSG00000233927	P62857
+RPS29	ribosomal protein S29 	small sub-unit	10419	ENSG00000213741	P62273
+FAU	FAU ubiquitin like and ribosomal protein S30 fusion 	small sub-unit	3597	ENSG00000149806	P62861
+RACK1	receptor for activated C kinase 1 	small sub-unit	4399	ENSG00000204628	P63244
+RPL3	ribosomal protein L3 	large sub-unit	10332	ENSG00000100316	P39023
+RPL4	ribosomal protein L4 	large sub-unit	10353	ENSG00000174444	P36578
+RPL5	ribosomal protein L5 	large sub-unit	10360	ENSG00000122406	P46777
+RPL6	ribosomal protein L6 	large sub-unit	10362	ENSG00000089009	Q02878
+RPL7	ribosomal protein L7 	large sub-unit	10363	ENSG00000147604	P18124
+RPL7A	ribosomal protein L7a 	large sub-unit	10364	ENSG00000148303	P62424
+RPL8	ribosomal protein L8 	large sub-unit	10368	ENSG00000161016	P62917
+RPL9	ribosomal protein L9 	large sub-unit	10369	ENSG00000163682	P32969
+RPL10	ribosomal protein L10 	large sub-unit	10298	ENSG00000147403	P27635
+RPL10A	ribosomal protein L10a 	large sub-unit	10299	ENSG00000198755	P62906
+RPL11	ribosomal protein L11 	large sub-unit	10301	ENSG00000142676	P62913
+RPL12	ribosomal protein L12 	large sub-unit	10302	ENSG00000197958	P30050
+RPL13	ribosomal protein L13 	large sub-unit	10303	ENSG00000167526	P26373
+RPL13A	ribosomal protein L13a 	large sub-unit	10304	ENSG00000142541	P40429
+RPL14	ribosomal protein L14 	large sub-unit	10305	ENSG00000188846	P50914
+RPL15	ribosomal protein L15 	large sub-unit	10306	ENSG00000174748	P61313
+RPL17	ribosomal protein L17 	large sub-unit	10307	ENSG00000265681	P18621
+RPL18	ribosomal protein L18 	large sub-unit	10310	ENSG00000063177	Q07020
+RPL18A	ribosomal protein L18a 	large sub-unit	10311	ENSG00000105640	Q02543
+RPL19	ribosomal protein L19 	large sub-unit	10312	ENSG00000108298	P84098
+RPL21	ribosomal protein L21 	large sub-unit	10313	ENSG00000122026	P46778
+RPL22	ribosomal protein L22 	large sub-unit	10315	ENSG00000116251	P35268
+RPL23	ribosomal protein L23 	large sub-unit	10316	ENSG00000125691	P62829
+RPL23	ribosomal protein L23 	large sub-unit	10316	ENSG00000125691	P62829
+RPL23A	ribosomal protein L23a 	large sub-unit	10317	ENSG00000198242	P62750
+RPL24	ribosomal protein L24 	large sub-unit	10325	ENSG00000114391	P83731
+RPL26	ribosomal protein L26 	large sub-unit	10327	ENSG00000161970	P61254
+RPL27	ribosomal protein L27 	large sub-unit	10328	ENSG00000131469	P61353
+RPL27A	ribosomal protein L27a 	large sub-unit	10329	ENSG00000166441	P46776
+RPL28	ribosomal protein L28 	large sub-unit	10330	ENSG00000108107	P46779
+RPL29	ribosomal protein L29 	large sub-unit	10331	ENSG00000162244	P47914
+RPL30	ribosomal protein L30 	large sub-unit	10333	ENSG00000156482	P62888
+RPL31	ribosomal protein L31 	large sub-unit	10334	ENSG00000071082	P62899
+RPL32	ribosomal protein L32 	large sub-unit	10336	ENSG00000144713	P62910
+RPL34	ribosomal protein L34 	large sub-unit	10340	ENSG00000109475	P49207
+RPL35	ribosomal protein L35 	large sub-unit	10344	ENSG00000136942	P42766
+RPL35A	ribosomal protein L35a 	large sub-unit	10345	ENSG00000182899	P18077
+RPL36	ribosomal protein L36 	large sub-unit	13631	ENSG00000130255	Q9Y3U8
+RPL36A	ribosomal protein L36a 	large sub-unit	10359	ENSG00000241343	P83881
+RPL37	ribosomal protein L37 	large sub-unit	10347	ENSG00000145592	P61927
+RPL37A	ribosomal protein L37a 	large sub-unit	10348	ENSG00000197756	P61513
+RPL38	ribosomal protein L38 	large sub-unit	10349	ENSG00000172809	P63173
+RPL39	ribosomal protein L39 	large sub-unit	10350	ENSG00000198918	P62891
+RPL41	ribosomal protein L41 	large sub-unit	10354	ENSG00000229117	P62945
+RPLP0	ribosomal protein lateral stalk subunit P0 	large sub-unit	10371	ENSG00000089157	P05388
+RPLP1	ribosomal protein lateral stalk subunit P1 	large sub-unit	10372	ENSG00000137818	P05386
+RPLP2	ribosomal protein lateral stalk subunit P2 	large sub-unit	10377	ENSG00000177600	P05387
+UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1 	large sub-unit	12458	ENSG00000221983	P62987
+\n
+\n
+\n
+\n
+
+

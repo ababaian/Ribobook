@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPS5
+  description: ribosomal protein S5 
+  subunit: small sub-unit
+  HGNC: 10426
+  ENSG: ENSG00000083845
+  uniprot: P46782

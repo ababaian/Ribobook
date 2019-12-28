@@ -1,0 +1,8 @@
+#YAML 1.2
+#Ribosomal Protein Template
+gene: RPL41
+  description: ribosomal protein L41 
+  subunit: large sub-unit
+  HGNC: 10354
+  ENSG: ENSG00000229117
+  uniprot: P62945
